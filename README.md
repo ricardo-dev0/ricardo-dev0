@@ -1,12 +1,8 @@
-# 👋 Hi, I'm Your Name
+# 👋 Hi, I'm Ricardo
 
 ### Senior Full Stack Engineer | AI Engineer | 10+ Years Experience
 
 Building scalable web applications, cloud-native systems, AI-powered products, and enterprise solutions.
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
 
 ---
 
@@ -137,10 +133,7 @@ Microsoft Graph API integrations including Mail, Calendar, Contacts, and Teams.
 ---
 
 ## 📫 Let's Connect
-
-* LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-* Portfolio: https://yourwebsite.com
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* Email: [ricardoavila0442@gmail.com](ricardoavila0442@gmail.com)
 
 ---
 
